@@ -24,6 +24,11 @@ A collection of deep learning and machine learning notebooks built using Python 
 - **Dataset**: `root_cause_analysis.csv`
 - **Description**: Identifies the root cause of system incidents using binary features and classification logic.
 
+### 5. **Restaurant Chatbot**
+- **File:** `chatbot.py`  
+- **Library Used:** `TextBlob` (for sentiment analysis)  
+- **Input:** User's typed message  
+- **Output:** Predefined response based on matched keywords or message sentiment
 
 📌 Note
 Each notebook is self-contained with its own dataset and explanation. Ideal for beginners looking to explore hands-on deep learning use cases.
