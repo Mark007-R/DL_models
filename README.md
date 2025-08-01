@@ -15,7 +15,7 @@ A collection of deep learning and machine learning notebooks built using Python 
 - **Description**: NLP-based binary classification to detect spam messages using text preprocessing and deep learning.
 
 ### 3. **Sales Prediction**
-- **File**: `keras_prac.ipynb`
+- **File**: `sales_pred.ipynb`
 - **Dataset**: `sales.csv`
 - **Description**: Predicts future sales using a regression model built with Keras.
 
