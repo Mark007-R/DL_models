@@ -5,12 +5,12 @@ A collection of deep learning and machine learning notebooks built using Python 
 ## 📁 Projects
 
 ### 1. **Iris Flower Classification**
-- **File**: `Iris.ipynb`
+- **File**: `iris_classifier.ipynb`
 - **Dataset**: `iris.csv`
 - **Description**: Uses a neural network model to classify Iris flowers into three species based on petal and sepal measurements.
 
 ### 2. **Spam SMS Text Classification**
-- **File**: `Spam.ipynb`
+- **File**: `spam_classifier.ipynb`
 - **Dataset**: `Spam-Classification.csv`
 - **Description**: NLP-based binary classification to detect spam messages using text preprocessing and deep learning.
 
@@ -20,7 +20,7 @@ A collection of deep learning and machine learning notebooks built using Python 
 - **Description**: Predicts future sales using a regression model built with Keras.
 
 ### 4. **Incident Root Cause Analysis**
-- **File**: `Incident Root Cause Analysis.ipynb`
+- **File**: `root_cause_identifier.ipynb`
 - **Dataset**: `root_cause_analysis.csv`
 - **Description**: Identifies the root cause of system incidents using binary features and classification logic.
 
